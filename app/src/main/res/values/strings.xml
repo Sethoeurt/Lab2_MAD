@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sethoeurt</string>
+    <string name="expense_tracker">Expense Tracker</string>
+    <string name="amount">Amount</string>
+    <string name="amount_hint">Amount</string>
+    <string name="category">Category</string>
+    <string name="remark">Remark</string>
+    <string name="usd">USD</string>
+    <string name="khr">KHR</string>
+    <string name="food_hint">Food</string>
+    <string name="remark_hint">Remark</string>
+    <string name="add_expense">Add Expense</string>
+</resources>
